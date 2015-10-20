@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Ryan St. Louis
+ * Created on: 20-10-2015
+ * Created for: ICS3U
+ * Daily Assignment – Unit#3-13
+ * This program displays looping letters of the alphabet.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
